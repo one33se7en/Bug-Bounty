@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2H
 This is where the fun begins.
 
 **Introduction :**  
-https://www.hacker101.com/playlists/newcomers.html
+- https://www.youtube.com/watch?v=Vtj-RHEQn8M&t=152s
+- https://www.hacker101.com/playlists/newcomers.html
 
 **The Tooling :**
 
@@ -117,7 +118,14 @@ START HACKING STUFF
 
 1. Focus on one program high paying program with a lot of features.
 2. Focus on main app only don't do recon.
-3. Start by looking for one vulnerability only that is IDOR, It is everywhere , easy to find and Impactful.
+3. Start by looking for one vulnerability only that is IDOR and Access Control Issues, It is everywhere , easy to find and Impactful.
+
+### Watch these videos :
+- https://www.youtube.com/watch?v=BfbS8uRjeAg
+- https://www.youtube.com/watch?v=jTdqM2aO4Ys
+- https://www.youtube.com/watch?v=EeBSqo7N2Bs
+
+# Final Advice: Just don't give up. Be consistent. Don't aim for perfection—show up every day, even if it's just for one hour. Small actions compound over time.
 
 ---
 
@@ -129,5 +137,10 @@ START HACKING STUFF
 - After That Just go all in into it.
 
 ---
+## More resources :
+- Nahamsec YT Channel : https://www.youtube.com/@NahamSec
+- Critical Thinking Bug Bounty Podcast : https://www.youtube.com/@criticalthinkingpodcast/videos
+---
+  
 
 Also, Make a X account and Follow me @one33se7en and Follow everyone I follow.
