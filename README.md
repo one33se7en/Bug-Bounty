@@ -82,18 +82,18 @@ Till now you have learn the vulnerabilities out of which you can make a decent l
 
 But learning should never stop : 
 
-I advice you to start testing apps now daily for three hours + 2 hours learning.
+I advice you to start testing Web Applications now daily for 3 hours + 2 hours learning. Don't think about money just open your burp and browser, Pick one target and starting testing it.
 
-Learn From Real World Reports that are submitted read as much as you can for 6 months.
+For 2 hour learning, Read real world reports that are submitted by other hackers read as much as you can for 6 months :
 
 1. https://hackerone.com/hacktivity/overview  
 2. https://pentester.land/writeups/
 
 Now go on hackerone.com and signup as a hacker.
 
-But You don't have a methodology.
+Oh Wait, But You don't have a methodology.
 
-So learn from the OG ZseanO  
+So learn from the OG Zsean0
 - https://www.youtube.com/watch?v=-6tv1kvBZDQ  
 - https://www.youtube.com/watch?v=091zJCuWfZk  
 - https://www.youtube.com/watch?v=gzV8zLzfFLA  
@@ -118,9 +118,13 @@ START HACKING STUFF
 
 1. Focus on one program high paying program with a lot of features.
 2. Focus on main app only don't do recon.
-3. Start by looking for one vulnerability only that is IDOR and Access Control Issues, It is everywhere , easy to find and Impactful.
+3. Start by looking for one vulnerability only and master it and that is IDOR and Access Control Issues, It is everywhere , easy to find and Impactful.
 
-### Watch these videos :
+Don't look for other bugs unless it's on your face, Because jack of all trades, Master of none. SO IT'S BETTER TO BE MASTER OF ONE.
+
+People are making a decent living out of only IDORs and Access Contol Issues.
+
+### Watch these videos to make good methodology :
 - https://www.youtube.com/watch?v=BfbS8uRjeAg
 - https://www.youtube.com/watch?v=jTdqM2aO4Ys
 - https://www.youtube.com/watch?v=EeBSqo7N2Bs
@@ -131,14 +135,15 @@ START HACKING STUFF
 
 ## Timeline :
 
-- Basics : 3 Months  
-- Tooling and Vulnerabilities : 3-5 Month, Just learn completely.  
-- Hacking + Learning : 6 Month [3 hours hacking + 2 hours Reading real world reports]  
+- Basics : 3 Months
+- Tooling and Vulnerabilities : 3 Month, Just learn completely.  
+- Hacking + Learning : 6 Month [3 hours hacking + 2 hours Reading real world reports]
 - After That Just go all in into it.
 
 ---
 ## More resources :
-- Nahamsec YT Channel : https://www.youtube.com/@NahamSec
+- StoK : https://www.youtube.com/@STOKfredrik/videos
+- Nahamsec YT Channel : https://www.youtube.com/@NahamSec/videos
 - Critical Thinking Bug Bounty Podcast : https://www.youtube.com/@criticalthinkingpodcast/videos
 ---
   
