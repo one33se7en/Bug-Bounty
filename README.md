@@ -17,7 +17,7 @@ Uninstall Windows and Install Linux as your main OS.
 
 - Learn Basic Coding :
 
-You can skip CSS if you want :
+You can skip this if you want but it's better to learn if you want to be good in the long term :
 
 https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
 
