@@ -13,7 +13,7 @@ Uninstall Windows and Install Linux as your main OS.
 - Learn Web fundamentals : 
 
 1. https://www.youtube.com/watch?v=WjiRHGfgdMc&list=PLwnDE0CN30Q9x3JMsHrRMGoLhpF8vZ1ka  
-2. https://www.youtube.com/watch?v=WjiRHGfgdMc&list=PLwnDE0CN30Q9x3JMsHrRMGoLhpF8vZ1ka
+2. https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA
 
 - Learn Basic Coding :
 
