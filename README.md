@@ -1,4 +1,6 @@
-# THE BASICS : Make a goal to complete this in three months MAX
+# Bug Bounty guide I wish someone gave me when I was starting out.
+
+## THE BASICS : Make a goal to complete this in three months MAX
 
 This is the boring part, but the foundations is needed.
 
@@ -23,7 +25,7 @@ https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2H
 
 ---
 
-# FUN PART :  
+## FUN PART :  
 This is where the fun begins.
 
 **Introduction :**  
