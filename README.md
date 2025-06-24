@@ -1,6 +1,6 @@
 # Bug Bounty guide I wish someone gave me when I was starting out.
 
-## THE BASICS : Make a goal to complete this in three months MAX
+## THE BASICS
 
 This is the boring part, but the foundations is needed.
 
