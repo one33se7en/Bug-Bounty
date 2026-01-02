@@ -1,4 +1,4 @@
-# Bug Bounty guide I wish someone gave me when I was starting out.
+# How to bug bounty
 
 ## THE BASICS
 
@@ -10,18 +10,17 @@ This is the boring part, but the foundations is needed.
 
 - Learn Linux : https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
 
-Uninstall Windows and Install Linux as your main OS.
-
 - Learn Web fundamentals : 
 
-1. https://www.youtube.com/watch?v=WjiRHGfgdMc&list=PLwnDE0CN30Q9x3JMsHrRMGoLhpF8vZ1ka  
-2. https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA
+https://www.youtube.com/watch?v=WjiRHGfgdMc&list=PLwnDE0CN30Q9x3JMsHrRMGoLhpF8vZ1ka  
+https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA
 
 - Learn Basic Coding :
 
 You can skip this if you want but it's better to learn if you want to be good in the long term :
 
-https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i
+https://www.youtube.com/watch?v=fqF9M92jzUo
+https://www.youtube.com/watch?v=rfscVS0vtbw
 
 ---
 
@@ -130,7 +129,7 @@ People are making a decent living out of only IDORs and Access Contol Issues.
 - https://www.youtube.com/watch?v=BfbS8uRjeAg
 - https://www.youtube.com/watch?v=jTdqM2aO4Ys
 - https://www.youtube.com/watch?v=EeBSqo7N2Bs
-
+ 
 # Final Advice: Just don't give up. Be consistent. Don't aim for perfection—show up every day, even if it's just for one hour. Small actions compound over time.
 
 ---
@@ -140,7 +139,7 @@ People are making a decent living out of only IDORs and Access Contol Issues.
 - Basics : 3 Months
 - Tooling and Vulnerabilities : 3 Month, Just learn completely.  
 - Hacking + Learning : 6 Month [3 hours hacking + 2 hours Reading real world reports]
-- After That Just go all in into it.
+- After That Just go all in into hacking.
 
 ---
 ## More resources :
