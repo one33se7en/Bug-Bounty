@@ -8,7 +8,7 @@ This is the boring part, but the foundations is needed.
 
 - Networking Basics : https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
 
-- Learn Linux : https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+- Learn Linux : https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL & https://labex.io/linuxjourney
 
 - Learn Web fundamentals : 
 
