@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7
 You can skip this if you want but it's better to learn if you want to be good in the long term :
 
 https://www.youtube.com/watch?v=fqF9M92jzUo
+
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
 ---
