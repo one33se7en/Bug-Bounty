@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=rfscVS0vtbw
 This is where the fun begins.
 
 **Introduction :**  
-- https://www.youtube.com/watch?v=Vtj-RHEQn8M&t=152s
+- https://www.youtube.com/watch?v=Vtj-RHEQn8M
 - https://www.hacker101.com/playlists/newcomers.html
 
 **The Tooling :**
